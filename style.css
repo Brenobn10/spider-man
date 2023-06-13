@@ -1,0 +1,27 @@
+#conteudo {
+    background: url("https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bYDwKJrIPjgANXNXUkF7ssSESsD.jpg");
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.btn {
+    vertical-align: inherit;
+    background: red;
+    color: #212161;
+    border-radius: 5px;
+}
+
+.pag {
+    background: red;
+    color: #212161;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 5px;
+}
